@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/dileepkumar/.Trash'
+let g:netrw_dirhist_2='/Users/dileepkumar/.config'
+let g:netrw_dirhist_3='/Users/dileepkumar/.config/meld'
+let g:netrw_dirhist_4='/Users/dileepkumar/code/marketplace/market-merchant-external/node_modules'
+let g:netrw_dirhist_5='/Users/dileepkumar/code/open_source/persona/config'
+let g:netrw_dirhist_6='/usr/local/etc/nginx/sites-enabled'
+let g:netrw_dirhist_7='/Users/dileepkumar/code/marketplace/persona/resources/static/include_js'
+let g:netrw_dirhist_8='/Users/dileepkumar/learn/flipkart_interview/backtrack'
+let g:netrw_dirhist_9='/Users/dileepkumar/code/marketplace/persona/resources/email_templates'
